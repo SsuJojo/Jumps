@@ -1,0 +1,45 @@
+[
+    {
+        "name": "台式电脑",
+        "brand": "微星",
+        "kind": "computer",
+        "system": "win11",
+        "LANip": "192.168.0.108",
+        "VLANip": "10.144.0.1"
+    },
+    {
+        "name": "笔记本电脑",
+        "brand": "联想",
+        "kind": "computer",
+        "system": "win10",
+        "LANip": "192.168.0.108",
+        "VLANip": "10.144.0.1"
+    },
+    {
+        "name": "华为手机",
+        "brand": "华为",
+        "kind": "phone",
+        "system": "android10",
+        
+        "LANip": "192.168.0.102",
+        "VLANip": "10.144.0.157"
+    },
+    {
+        "name": "荣耀手机",
+        "brand": "荣耀",
+        "kind": "phone",
+        "system": "android11",
+        
+        "LANip": "unknow",
+        "VLANip": "10.144.0.157"
+    },
+    {
+        "name": "荣耀手机",
+        "brand": "荣耀",
+        "kind": "phone",
+        "system": "android11",
+        
+        "LANip": "unknow",
+        "VLANip": "10.144.0.157"
+    }
+]
